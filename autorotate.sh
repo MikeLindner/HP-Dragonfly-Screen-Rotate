@@ -1,6 +1,9 @@
 #!/bin/sh
 # Auto rotate screen based on device orientation
 
+# https://github.com/MikeLindner/HP-Dragonfly-Screen-Rotate/blob/main/autorotate.sh
+
+# Referencing:
 # https://linuxappfinder.com/blog/auto_screen_rotation_in_ubuntu
 # https://gist.github.com/mildmojo/48e9025070a2ba40795c
 
