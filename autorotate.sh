@@ -6,6 +6,7 @@
 # Referencing:
 # https://linuxappfinder.com/blog/auto_screen_rotation_in_ubuntu
 # https://gist.github.com/mildmojo/48e9025070a2ba40795c
+# https://gist.github.com/prolic/21673f0909c0cb5e2114
 
 # Receives input from monitor-sensor (part of iio-sensor-proxy package)
 # Screen orientation and launcher location is set based upon accelerometer position
