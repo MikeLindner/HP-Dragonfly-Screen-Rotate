@@ -13,6 +13,7 @@
 # Launcher will be on the left in a landscape orientation and on the bottom in a portrait orientation
 # This script should be added to startup applications for the user
 
+# These values are obtained using "xinput list"
 TOUCHPAD='SynPS/2 Synaptics TouchPad'
 TOUCHSCREEN='Wacom HID 4924 Finger'
 TRANSFORM='Coordinate Transformation Matrix'
